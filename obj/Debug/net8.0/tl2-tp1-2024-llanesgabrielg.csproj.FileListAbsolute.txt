@@ -1,0 +1,14 @@
+C:\taller2\tp1\tl2-tp1-2024-llanesgabrielg\bin\Debug\net8.0\tl2-tp1-2024-llanesgabrielg.exe
+C:\taller2\tp1\tl2-tp1-2024-llanesgabrielg\bin\Debug\net8.0\tl2-tp1-2024-llanesgabrielg.deps.json
+C:\taller2\tp1\tl2-tp1-2024-llanesgabrielg\bin\Debug\net8.0\tl2-tp1-2024-llanesgabrielg.runtimeconfig.json
+C:\taller2\tp1\tl2-tp1-2024-llanesgabrielg\bin\Debug\net8.0\tl2-tp1-2024-llanesgabrielg.dll
+C:\taller2\tp1\tl2-tp1-2024-llanesgabrielg\bin\Debug\net8.0\tl2-tp1-2024-llanesgabrielg.pdb
+C:\taller2\tp1\tl2-tp1-2024-llanesgabrielg\obj\Debug\net8.0\tl2-tp1-2024-llanesgabrielg.GeneratedMSBuildEditorConfig.editorconfig
+C:\taller2\tp1\tl2-tp1-2024-llanesgabrielg\obj\Debug\net8.0\tl2-tp1-2024-llanesgabrielg.AssemblyInfoInputs.cache
+C:\taller2\tp1\tl2-tp1-2024-llanesgabrielg\obj\Debug\net8.0\tl2-tp1-2024-llanesgabrielg.AssemblyInfo.cs
+C:\taller2\tp1\tl2-tp1-2024-llanesgabrielg\obj\Debug\net8.0\tl2-tp1-2024-llanesgabrielg.csproj.CoreCompileInputs.cache
+C:\taller2\tp1\tl2-tp1-2024-llanesgabrielg\obj\Debug\net8.0\tl2-tp1-2024-llanesgabrielg.dll
+C:\taller2\tp1\tl2-tp1-2024-llanesgabrielg\obj\Debug\net8.0\refint\tl2-tp1-2024-llanesgabrielg.dll
+C:\taller2\tp1\tl2-tp1-2024-llanesgabrielg\obj\Debug\net8.0\tl2-tp1-2024-llanesgabrielg.pdb
+C:\taller2\tp1\tl2-tp1-2024-llanesgabrielg\obj\Debug\net8.0\tl2-tp1-2024-llanesgabrielg.genruntimeconfig.cache
+C:\taller2\tp1\tl2-tp1-2024-llanesgabrielg\obj\Debug\net8.0\ref\tl2-tp1-2024-llanesgabrielg.dll
